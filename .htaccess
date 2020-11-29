@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteUrl (.*) /public/$1
